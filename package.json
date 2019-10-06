@@ -1,0 +1,22 @@
+{
+  "name": "orange-1",
+  "version": "1.0.0",
+  "description": "Discord Bot with moderation moderation tools and fun commands!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fox-lucas/orange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fox-lucas/orange/issues"
+  },
+  "homepage": "https://github.com/fox-lucas/orange#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
